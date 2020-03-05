@@ -1,0 +1,9 @@
+<body>
+    <section class="main">
+        <div class="chat-body">
+            <div *ngFor="let item of Users">
+                <button class="btn" (click)=open(item)>{{item}}</button>
+            </div>
+        </div>
+    </section>
+</body>

@@ -1,0 +1,14 @@
+.main{
+    /* border: 2px solid black; */
+    border-radius: 2px;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    length:20vw;
+    height: 480vh;
+}
+.chat-body{
+}
+.foot{
+    width: 90%;
+}
